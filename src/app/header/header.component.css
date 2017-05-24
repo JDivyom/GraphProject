@@ -1,0 +1,20 @@
+ul li a{
+ 
+    padding : 1em;
+    border : 1px slateblue solid;
+    background-color:lightcyan;
+    color:blueviolet;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+ul li
+{
+       display: inline-block;
+       margin-top:2em;
+}
+
+input{
+     margin-left: 20%
+}
